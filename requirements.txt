@@ -98,8 +98,8 @@ python-jsonrpc-server==0.4.0
 python-language-server==0.36.2
 pytz==2020.5
 
-pywin64==300
-pywin64-ctypes==0.2.0
+
+pywin32-ctypes==0.2.0
 pywinpty==0.5.7
 
 PyYAML==5.3.1
